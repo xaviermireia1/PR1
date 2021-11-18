@@ -1,4 +1,4 @@
-# Título del Proyecto
+# DOC-BROWN
 
 **El proyecto se trata de un restaurante para añadir/quitar reservas y añadir/quitar licencias, está hecho en PHP, MYSQL, HTML, CSS, JS**
 
@@ -48,6 +48,7 @@ Para instalar nuestro proyecto se puede hacer de dos maneras.
 ## Despliegue 📦
 
 Para tener el proyecto ya terminado y dejarlo descansar vamos a subir el proyecto a un Hosting en este caso será el de **000WEBHOST**
+Accedes a la plataforma, creas un sitio gratuito y subes el proyecto a la plataforma. Cambias la conexion a la base de datos ya que serán distintos y hecho. Te dejo el enlace del codigo subido al hosting gratuito: https://doc-brown.000webhostapp.com/
 
 ## Construido con 🛠️
 
@@ -61,7 +62,8 @@ Para tener el proyecto ya terminado y dejarlo descansar vamos a subir el proyect
 
 ## Versionado 📌
 
-Usamos SemVer para el versionado. Para todas las versiones disponibles, mira los tags en este repositorio.
+Para todas las versiones disponibles, mira los tags en este repositorio.
+https://github.com/xaviermireia1/PR1/releases
 
 ## Autores ✒️
 
@@ -69,8 +71,8 @@ Usamos SemVer para el versionado. Para todas las versiones disponibles, mira los
     Diego Soledispa - Desarollador del Front-End 
 
 ## Licencia 📄
+Mira el archivo LICENSE para detalles
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo LICENSE.md para detalles
 ## Expresiones de Gratitud 🎁
 
     Si le ha gustado, comparta mi perfil con sus amigos 📢
