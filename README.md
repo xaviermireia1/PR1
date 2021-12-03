@@ -39,7 +39,6 @@ try{
     echo $e->getMessage();
 }
 ```
-
 Para instalar nuestro proyecto se puede hacer de dos maneras.
 1. Git clone en VISUAL STUDIO CODE --> Donde dice **CODE** en verde y obtienes este enlace https://github.com/xaviermireia1/PR1.git clonalo dentro de la ruta: **c:\xampp\htdocs**
 2. Descargar el zip desde el github y descomprimirlo en una ubicación el zip se descarga donde dice **CODE** en verde y la opcion de zip
@@ -49,6 +48,12 @@ Para instalar nuestro proyecto se puede hacer de dos maneras.
 
 Para tener el proyecto ya terminado y dejarlo descansar vamos a subir el proyecto a un Hosting en este caso será el de **000WEBHOST**
 Accedes a la plataforma, creas un sitio gratuito y subes el proyecto a la plataforma. Cambias la conexion a la base de datos ya que serán distintos y hecho. Te dejo el enlace del codigo subido al hosting gratuito: https://doc-brown.000webhostapp.com/
+
+### Y para hacer el login te dejo el usuario y contraseña.
+```
+usuario: xaviergomez@docbrown.com
+contraseña: 1234
+```
 
 ## Construido con 🛠️
 
